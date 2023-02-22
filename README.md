@@ -1,1 +1,1 @@
-simple_shell project
+C-simple_shell project
