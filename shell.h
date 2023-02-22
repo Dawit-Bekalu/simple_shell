@@ -35,7 +35,6 @@
 #define HIST_MAX	4096
 
 extern char **environ;
-
 /**
  * struct liststr - singly linked list
  * @num: the number field
